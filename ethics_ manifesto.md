@@ -26,10 +26,10 @@ Without a guide to ethics, every Data Scientist, Data Engineer, Software Enginee
 ## Areas of Focus 
 
 #### Design and Intended Use 
-
+When desiging a ml model the use needs to be thourghly thought through and the result of the project should not be used to the detriment of society. A well planned project can benifit a company and society by furhter generating revenue and gdp. However, a poorly designed model can adversly affect intentionally or not. A great example of this is where machine learning models bult for insurance companies created red lines around minorty communities. This can disporportionally affect certian ethnic groups and is all caused by a poor design and thought process from the data scientist. 
 
 #### Data Privacy & Rights
-
+As time progrosses privacy is considerded more and more as a natural born right so it is the least one can do to follow the laws around data privacy. However, it is a datascientists duty to further analyze any potential issues with data collection, interpretation and presentation. 
 
 #### Intention 
 
