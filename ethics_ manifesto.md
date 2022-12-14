@@ -1,50 +1,37 @@
 
-An ethics manifesto with references (no more than 750 words)
-
-
-## Ethics Manifesto 
+## Ethics Manifesto - Soren Laney
 
 ***
 
-## Overview 
-
-Without a guide to ethics, every Data Scientist, Data Engineer, Software Engineer or Analyst fights a conflict of interest internally everyday between what is best for the company and what is best for the community. What is benifits the business one is working for and what benifits society are often two very different things. Ethics can be compared to flying a plane or sailing a ship where it is imperative to set a course to not get lost or arrive at the wrong destination. 
-
+*"Ethics is knowing the difference between what you have a right to do and what is right to do"* -Potter Stewart
 
 #### **Ethics Definition** - *Moral principles that govern a person's behavior or the conducting of an activity.*
 
 #### **Moral Definition** - *A person's standards of behavior or beliefs concerning what is and is not acceptable for them to do.*
 
+***
 
+## 5 Rules to go by:
 
-## Understanding Ethics 
+### <u>1. No means No</u>
 
+In the world of data, that data is collected from somewhere. Often times it is from a end user on a platform. It is vitially important to get the users consent before collecting data. Not doing so can create a legal obligation to your company and can break the trust of your users and customers. 
 
+### <u>2. What are your intentions with my Data?</u>
 
+When collecting data and building models it is important to not only be intentional with the purpose of the project, but for that intention to be good. An example of good intentions would be collecting a users spending data to have them budget, while a bad intention would be using their consumption data to serve them adds for things they currently buying to increase their spending. 
 
+### <u>3. Comunication is key</u>
 
-## Areas of Focus 
+If data is going to be collected from a user, not only does the user need to give consent, but the user needs to be able to know how their data will be used. To fully give consent to data collection  a user must also know how their data will be used. If their data is used to create programs that can profile people for a social credit score, they might not want to consent to that. Now if they are collecting the data to create a better user expirence for them, they might want to contribute their data to them for that.
 
-#### Design and Intended Use 
-When desiging a ml model the use needs to be thourghly thought through and the result of the project should not be used to the detriment of society. A well planned project can benifit a company and society by furhter generating revenue and gdp. However, a poorly designed model can adversly affect intentionally or not. A great example of this is where machine learning models bult for insurance companies created red lines around minorty communities. This can disporportionally affect certian ethnic groups and is all caused by a poor design and thought process from the data scientist. 
+### <u>4. Don't Cheat on your Data</u>
 
-#### Data Privacy & Rights
-As time progrosses privacy is considerded more and more as a natural born right so it is the least one can do to follow the laws around data privacy. However, it is a datascientists duty to further analyze any potential issues with data collection, interpretation and presentation. 
+Often times when working on a project, a Data Scientist is working to a desired outcome. Now there is a problem when that is not the outcome that reached. There is a temptation to alter, change or manipulate data into a form that will yield the desired result. It is important to never do this as a Data Scientist because it is not only wrong to fake data, but it will not continue yield the desired results over time. 
 
-#### Intention 
+### <u>5. It only takes once to loose trust</u>
 
-
-#### Project Transparency 
-
-
-
-
-## Conclucion 
-
-
-
-
-
+Trust is one of the most important things that a person or a company can have. It is also very expensive becuase it can take years to build trust with person or as a brand. While working with statistical models it can be very easy to make a mistake that can loose trust within a company or from customers. This is why it is extremely important to have the systems in place to verify that mistakes will not be made where it can cost you, your team or your company to loose that trust. 
 
 ***
 #### Ethics Manifesto Notes 
